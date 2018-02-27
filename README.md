@@ -17,11 +17,11 @@ This project aims to develop a sentiment classifier of the twitter data using [N
    * Anger
    * Suprise
 
-###Contents of this project:
+### Contents of this project:
 
-1. **Dataset Folder: ** Contents all the dataset files used in the project
-2. **Flume Folder: ** Contains flume results from twitter
-3. **Naive_bayes_Classifier.java: ** Contains the source code for the classifier and JFrame
+1. **Dataset Folder:** Contents all the dataset files used in the project
+2. **Flume Folder:** Contains flume results from twitter
+3. **Naive_bayes_Classifier.java:** Contains the source code for the classifier and JFrame
 4. **final.jar:** A ready to use and execute jar file(Desktop Application)
 
 ### Screenshot:
