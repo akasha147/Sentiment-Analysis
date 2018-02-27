@@ -7,7 +7,7 @@ This project aims to develop a sentiment classifier of the twitter data using [N
 ### Overview of the project:
 - The twitter raw data was obtained from twitter using twitter api and **Apache Flume**
 - This raw data was converted into Dataset using various **Hadoop MapReduce** Jobs
-- Using this raw data,a Naive Bayes Classifier was built from scratch
+- Using this dataset,a Naive Bayes Classifier was built from scratch
 - A UI is also developed using java **JFrame** for easier access.
 
 - The Classifier classifies the test data into : 
